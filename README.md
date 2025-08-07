@@ -1,6 +1,11 @@
 # 🎁 Projeto Amigo Secreto
 
-Este é um projeto desenvolvido como parte do desafio da **Alura** em parceria com o programa **Oracle Next Education (ONE)**. A proposta era criar uma aplicação web simples, divertida e interativa que sorteasse os nomes dos participantes de um **Amigo Secreto** de forma automática e confidencial.
+Este projeto foi desenvolvido como parte do desafio da **Alura** em parceria com o programa **Oracle Next Education (ONE)**.
+
+🎯 **A proposta do desafio era criar, com foco na lógica em JavaScript, uma aplicação de sorteio de Amigo Secreto.**  
+O objetivo principal era aplicar os conhecimentos de **JavaScript** para manipular o DOM, trabalhar com arrays, eventos e funções, criando assim uma solução dinâmica, justa e funcional. 
+
+O layout da página foi construído com **HTML** e **CSS**, dando forma à interface onde o sorteio acontece.
 
 ## 🚀 Tecnologias Utilizadas
 
