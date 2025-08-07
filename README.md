@@ -4,7 +4,11 @@ Este é um projeto desenvolvido como parte do desafio da **Alura** em parceria c
 
 ## 🚀 Tecnologias Utilizadas
 
+HTML
 
+CSS
+
+JavaScript
 
 
 ## 🎯 Objetivo do Projeto
@@ -13,9 +17,35 @@ O objetivo deste desafio foi praticar **JavaScript**, **manipulação do DOM**, 
 
 1. Cadastrar os nomes dos participantes;
 2. Sortear automaticamente quem será o amigo secreto de cada pessoa;
-3. Garantir que ninguém tire a si mesmo;
 
 ## 🖼️ Imagem do Projeto
 
-![Print do Projeto](./screenshot.png)
+![Print do Projeto](./print-amigo-secreto.PNG)
+
+---
+
+## ✨ Feito com carinho por Suelem Martins
+
+<div align="center">
+
+💻 Desenvolvido com:  
+HTML • CSS • JavaScript  
+
+🚀 Projeto do desafio da **Alura + Oracle Next Education**
+
+📍 Blumenau/SC — Brasil
+
+📫 Contato: suelemnascinto@gmail.com
+
+---
+
+🌟 Obrigada por visitar meu projeto!  
+Se gostou, deixe uma ⭐ no repositório!
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120px" alt="Thanks gif"/>
+</p>
+
 
