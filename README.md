@@ -20,12 +20,35 @@ JavaScript
 
 O objetivo deste desafio foi praticar **JavaScript**, **manipulação do DOM**, e o uso de **eventos**, além de consolidar conhecimentos de **HTML** e **CSS**. O resultado é um pequeno aplicativo que permite:
 
-1. Cadastrar os nomes dos participantes;
-2. Sortear automaticamente quem será o amigo secreto de cada pessoa;
 
 ## 🖼️ Imagem do Projeto
 
 ![Print do Projeto](./print-amigo-secreto.PNG)
+
+
+Na imagem acima, é possível visualizar a interface principal do projeto: o título "Amigo Secreto", o campo para digitar nomes dos participantes, o botão de adicionar, o botão de sortear e a mensagem com o nome sorteado.
+
+🧠 Como Funciona
+O objetivo do projeto é sortear aleatoriamente um nome entre os amigos inseridos, garantindo que a lógica funcione corretamente e que o sorteio seja justo. A interface foi feita para ser simples e objetiva, proporcionando uma experiência prática e divertida.
+
+🔍 Funcionalidades principais:
+Adicionar Participantes
+
+O usuário digita um nome no campo de entrada e clica em "Adicionar".
+
+Os nomes são armazenados em uma lista interna.
+
+Sorteio
+
+Ao clicar no botão "Sortear amigo", o sistema escolhe aleatoriamente um nome da lista de participantes cadastrados.
+
+O resultado é exibido na tela com uma mensagem destacando o nome sorteado.
+
+Validações e Interação
+
+O botão "Adicionar" só é habilitado quando um nome válido é digitado.
+
+O sorteio só é possível se houver nomes cadastrados.
 
 ---
 
