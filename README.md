@@ -18,7 +18,7 @@ JavaScript
 
 ## 🎯 Objetivo do Projeto
 
-O objetivo deste desafio foi praticar **JavaScript**, **manipulação do DOM**, e o uso de **eventos**, além de consolidar conhecimentos de **HTML** e **CSS**. O resultado é um pequeno aplicativo que permite:
+O objetivo deste desafio foi praticar **JavaScript**, **manipulação do DOM**, e o uso de **eventos**, além de consolidar conhecimentos de **HTML** e **CSS**. O resultado é um pequeno aplicativo.
 
 
 ## 🖼️ Imagem do Projeto
